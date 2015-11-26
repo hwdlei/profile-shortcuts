@@ -14,10 +14,11 @@ iterm2-shortcuts（iterm 2 快捷键）
 >* 关闭当前标签页：⌘ + w 
 >* Exposé 标签,并支持搜索: ⌘ + option + e
 
-#####分屏Pane
+####分屏Pane
 >* 垂直分屏：⌘ + d
 >* 水平分屏：⌘ + shift + d
 >* 切换屏幕：⌘ + option + 方向键      ⌘ + [ 或 ⌘ + ]
+>* 分屏同步：⌘ + shift + i
 
 ####切换全屏：⌘ + enter
 
